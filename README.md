@@ -15,7 +15,7 @@ If you're interested in working together, feel free to reach out to me. I love c
 
 🙏 Thanks for stopping by and taking the time to explore my work! I hope to hear from you soon.
 
-https://user-badge.committers.top/albania_private/geartprogrammer.svg
+[![committers.top badge](https://user-badge.committers.top/albania_private/geartprogrammer.svg)](https://user-badge.committers.top/albania_private/geartprogrammer)
 
 <!--
 **geartprogrammer/geartprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
